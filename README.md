@@ -20,7 +20,7 @@ All three projects that need data (tweets, courts, bills) are in different folde
 **Comptroller Scraping:**
 
 Here is the link for the scraping project:
-(data)[wwe2.osc.state.ny.us/transparency/contracts/contractsearch.cfm]
+[data](wwe2.osc.state.ny.us/transparency/contracts/contractsearch.cfm)
 
 *Delivarable: Scraping tool*
 
