@@ -2,7 +2,7 @@
 hackathon with pitches from CUSP Alumni working in NYC agencies
 
 Alumni Present: 
-Maria Fillippelli - DataKind
+Maria Filippelli - DataKind
 
 Sara Arango-Franco - BetaGov 
 
@@ -58,15 +58,15 @@ Create a model/Viz to turn into a tool for DA analytics
 
 **California Voting**
 
-Identify voting vcenter locations in Sacramento county 
+Identify early voting center locations in Sacramento county 
 
 [data](https://docs.google.com/spreadsheets/d/1LvavASwTbUkqnA0onBQ_iPsB5xXBS230-07NDfgogUg/edit)
 
 *Deliverable: Map*
 
-**School program appreciation tweets**
+**School support tweets**
 
-Evaluate the succes of k-12 school programs by tweets
+Evaluate the support of k-12 school programs by tweets
 
 [data](https://docs.google.com/document/d/1JOybncIv3uF3jjf9qMV16RR3GWTZYykxXIerDpTyU50/edit)
 
