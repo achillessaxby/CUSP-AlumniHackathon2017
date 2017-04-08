@@ -32,7 +32,7 @@ classifying court or bill text data
 
 [2 datasets](https://is.gd/cuspoagApr2017)
 
-*Deliverable: Model/Visualization(
+*Deliverable: Model/Visualization*
 
 **Identify complsaints on twitter:**
 
