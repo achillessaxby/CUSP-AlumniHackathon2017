@@ -13,11 +13,11 @@ Also from BetaGov Sandy Mullins, from AG Lacey Keller
 Judges: Angel Hawkings, Caryn Knutson, Brendan O'Reilly
 
 
-* AG: *
+**AG:**
 
 All three projects that need data (tweets, courts, bills) are in different folders on OAGCloud here:
  
-** Comptroller Scraping: **
+**Comptroller Scraping:**
 
 Here is the link for the scraping project:
 wwe2.osc.state.ny.us/transparency/contracts/contractsearch.cfm 
@@ -25,7 +25,7 @@ wwe2.osc.state.ny.us/transparency/contracts/contractsearch.cfm
 *Delivarable: Scraping tool*
 
 
-** Topic Modeling: **
+**Topic Modeling:**
 
 classifying court data
 
@@ -33,7 +33,7 @@ classifying court data
 
 *Deliverable: Model/Visualization(
 
-** Identify complsaints on twitter: **
+**Identify complsaints on twitter:**
 
 find tweet similar to a preclassified set
 
