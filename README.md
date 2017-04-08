@@ -12,6 +12,8 @@ Also from BetaGov Sandy Mullins, from AG Lacey Keller
 
 Judges: Angel Hawkings, Caryn Knutson, Brendan O'Reilly
 
+[Slack Channel](https://cuspalumnihack17.slack.com/shared_invite/MTY2NTk2MDgzMjUyLTE0OTE2NjUwNzItNmZlZDY4MzE5NQ)
+
 
 ## AG:
 
