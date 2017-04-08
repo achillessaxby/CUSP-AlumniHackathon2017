@@ -13,7 +13,7 @@ Also from BetaGov Sandy Mullins, from AG Lacey Keller
 Judges: Angel Hawkings, Caryn Knutson, Brendan O'Reilly
 
 
-## AG:##
+## AG:
 
 All three projects that need data (tweets, courts, bills) are in different folders on OAGCloud here:
  
