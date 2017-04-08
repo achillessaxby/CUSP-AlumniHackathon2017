@@ -45,6 +45,8 @@ find tweet similar to a preclassified set
 
 ## BetaGov:
 
+**DA prosecution modelling**
+
 Create a model/Viz to turn into a tool for DA analytics
 
 [data](https://drive.google.com/a/nyu.edu/file/d/0B8N4X7B8IiCPWXFvLVJVMEQ0RVk/view?usp=drivesdk)
@@ -54,7 +56,7 @@ Create a model/Viz to turn into a tool for DA analytics
 
 ## DataKind: [hackpad](https://hackpad.com/CUSP-Hackathon-9-April-2017-FyPMWFANx2J)
 
-**California Voting:**
+**California Voting**
 
 Identify voting vcenter locations in Sacramento county 
 
@@ -71,7 +73,7 @@ Evaluate the succes of k-12 school programs by tweets
 *Deliverable: Model*
 
 
-**Disaster resources: **
+**Disaster resources**
 
 Predict the number of volunteers required for a disaster
 
