@@ -18,7 +18,7 @@ Judges: Angel Hawkings, Caryn Knutson, Brendan O'Reilly
 All three projects that need data (tweets, courts, bills) are in different folders on OAGCloud here:
  
 **Comptroller Scraping:**
-
+Build a tool to scrape the conptrolled website.
 Here is the link for the scraping project:
 [data](wwe2.osc.state.ny.us/transparency/contracts/contractsearch.cfm)
 
