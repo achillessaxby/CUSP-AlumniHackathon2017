@@ -54,7 +54,7 @@ Create a model/Viz to turn into a tool for DA analytics
 
 ## DataKind: [hackpad](https://hackpad.com/CUSP-Hackathon-9-April-2017-FyPMWFANx2J)
 
-** California Voting:**
+**California Voting:**
 
 Identify voting vcenter locations in Sacramento county 
 
@@ -62,7 +62,7 @@ Identify voting vcenter locations in Sacramento county
 
 *Deliverable: Map*
 
-** School program appreciation tweets**
+**School program appreciation tweets**
 
 Evaluate the succes of k-12 school programs by tweets
 
@@ -71,7 +71,7 @@ Evaluate the succes of k-12 school programs by tweets
 *Deliverable: Model*
 
 
-** Disaster resources: **
+**Disaster resources: **
 
 Predict the number of volunteers required for a disaster
 
