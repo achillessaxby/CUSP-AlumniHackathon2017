@@ -46,6 +46,6 @@ find tweet similar to a preclassified set
 
 Create a model/Viz to turn into a tool for DA analytics
 
-[data:](https://drive.google.com/a/nyu.edu/file/d/0B8N4X7B8IiCPWXFvLVJVMEQ0RVk/view?usp=drivesdk)
+[data](https://drive.google.com/a/nyu.edu/file/d/0B8N4X7B8IiCPWXFvLVJVMEQ0RVk/view?usp=drivesdk)
 
-*Deliverable: *
+*Deliverable: Model/Viz*
