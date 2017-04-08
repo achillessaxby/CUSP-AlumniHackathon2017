@@ -20,16 +20,16 @@ All three projects that need data (tweets, courts, bills) are in different folde
 **Comptroller Scraping:**
 
 Here is the link for the scraping project:
-wwe2.osc.state.ny.us/transparency/contracts/contractsearch.cfm 
+(data)[wwe2.osc.state.ny.us/transparency/contracts/contractsearch.cfm]
 
 *Delivarable: Scraping tool*
 
 
 **Topic Modeling:**
 
-classifying court data
+classifying court or bill text data
 
-[3 datasets](https://is.gd/cuspoagApr2017)
+[2 datasets](https://is.gd/cuspoagApr2017)
 
 *Deliverable: Model/Visualization(
 
@@ -37,6 +37,6 @@ classifying court data
 
 find tweet similar to a preclassified set
 
-[3 datasets](https://is.gd/cuspoagApr2017)
+[1 dataset](https://is.gd/cuspoagApr2017)
 
 *Deliverable: Model/App*
