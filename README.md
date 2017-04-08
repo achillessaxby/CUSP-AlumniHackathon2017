@@ -40,3 +40,12 @@ find tweet similar to a preclassified set
 [1 dataset](https://is.gd/cuspoagApr2017)
 
 *Deliverable: Model/App*
+
+
+## BetaGov:
+
+Create a model/Viz to turn into a tool for DA analytics
+
+[data:](https://drive.google.com/a/nyu.edu/file/d/0B8N4X7B8IiCPWXFvLVJVMEQ0RVk/view?usp=drivesdk)
+
+*Deliverable: *
